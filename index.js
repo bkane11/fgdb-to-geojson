@@ -5,6 +5,7 @@ var fgdb = require('fgdb')
 , fs = require('fs')
 , path = require('path')
 , jf = require('jsonfile')
+// , jsonminify = require("./node_modules/jsonminify/minify.json.js")
 // , util = require('util')
 , ArgumentParser = require('argparse').ArgumentParser
 , parser = new ArgumentParser({
@@ -28,9 +29,18 @@ parser.addArgument(
   }
 );
 
+// parser.addArgument(
+//   [ '-min', '--minify' ],
+//   {
+//     action: 'storeTrue', 
+//     help: 'minify?'
+//   }
+// );
+
 var args = parser.parseArgs()
 , input = args.input
 , output = args.output
+// , minify = args.minify
 ;
 
 if(!input || !output){
@@ -51,13 +61,22 @@ if( !fs.existsSync( path.dirname(resolvedoutput) ) ){
 	process.exit(1);
 }
 // console.dir(args);
-console.log('converting', input, 'to', output)
+console.log('converting', resolvedinput, 'to', output)
+// console.log('converting', input, 'to', output)
 
 fgdb( resolvedinput ).then(function(json){
+  // // json = JSON.parse(json);
+  // // console.log('looks like the number of features in this doc is: ', json.features && json.features.length)
+  // if(minify){
+  //   console.log('minifying')
+  //   json = JSON.minify( json );
+  //   // json = JSON.parse( jsonminify( json ) );
+  // }
+
 	jf.writeFile(resolvedoutput, json, function(err) {
   		if(err){
-			console.dir( err );
-			return process.exit(1);
+			 console.log( 'error:', err );
+			 return process.exit(1);
   		}
   		console.log('Success!')
 	})
