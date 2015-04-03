@@ -1,0 +1,25 @@
+{
+  "name": "fgdb-to-geojson",
+  "version": "0.0.1",
+  "description": "convert filegdb to geojson",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "geojson",
+    "esri",
+    "filegdb"
+  ],
+  "author": "Ben Kane",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.2",
+    "fgdb": "^0.2.1",
+    "jsonfile": "^2.0.0"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "fgdb-to-geojson" : "./index.js"
+  }
+}

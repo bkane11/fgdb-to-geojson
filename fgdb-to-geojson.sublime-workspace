@@ -1,0 +1,1271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sim",
+				"simplify"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"wa",
+				"waypoints"
+			],
+			[
+				"way",
+				"waypoints"
+			],
+			[
+				"addre",
+				"addressBackToLocation"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"des",
+				"destinations"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"get",
+				"getColorFromPriority"
+			],
+			[
+				"icon",
+				"iconOpts"
+			],
+			[
+				"tick",
+				"ticket_id"
+			],
+			[
+				"point",
+				"point_id"
+			],
+			[
+				"ma",
+				"marker"
+			],
+			[
+				"list-",
+				"list-group-item"
+			],
+			[
+				"nav",
+				"navbar-btn"
+			],
+			[
+				"butt",
+				"buttoncontainer"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"D",
+				"Directions"
+			],
+			[
+				"calc",
+				"calcRoute"
+			],
+			[
+				"ur",
+				"userLocations"
+			],
+			[
+				"lo",
+				"locations"
+			],
+			[
+				"def",
+				"defaultLocation"
+			],
+			[
+				"rout",
+				"routeDisplaying"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"user",
+				"userLocations"
+			],
+			[
+				"us",
+				"userLocationsPanel"
+			],
+			[
+				"defaul",
+				"defaultLocation"
+			],
+			[
+				"listG",
+				"list-group-item"
+			],
+			[
+				"defa",
+				"defaultLocation"
+			],
+			[
+				"default",
+				"defaultTravelMode"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"de",
+				"destinations"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"setD",
+				"setDirectionsServices"
+			],
+			[
+				"tra",
+				"travelmode"
+			],
+			[
+				"setT",
+				"setTravelOptions"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"cac",
+				"calcRoute"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"han",
+				"handleDistanceMatrixResults"
+			],
+			[
+				"dis",
+				"setDistanceMatrixService"
+			],
+			[
+				"map",
+				"maprouter"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"ge",
+				"geolocation"
+			],
+			[
+				"wat",
+				"watchid"
+			],
+			[
+				"alert",
+				"alertOpen"
+			],
+			[
+				"ale",
+				"alertOpen"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"geol",
+				"geolocationError"
+			],
+			[
+				"my",
+				"myLocation"
+			],
+			[
+				"setM",
+				"setMyLocation"
+			],
+			[
+				"Map",
+				"MapRouter"
+			],
+			[
+				"direc",
+				"directionsDisplay"
+			],
+			[
+				"is",
+				"isDefaultOutOfBounds"
+			],
+			[
+				"out",
+				"outofbounds"
+			],
+			[
+				"tran",
+				"translateY"
+			],
+			[
+				"linh",
+				"lineheight"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"prop",
+				"prototype"
+			],
+			[
+				"Goo",
+				"GeoJsonLayer"
+			],
+			[
+				"sub",
+				"subjson"
+			],
+			[
+				"elev",
+				"elevField"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"add",
+				"addinggeojson"
+			],
+			[
+				"su",
+				"subtypes"
+			],
+			[
+				"porp",
+				"prototype"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"merge",
+				"mergeDataLayerInto"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"G",
+				"GeoJsonLayer"
+			],
+			[
+				"anim",
+				"animatelayer"
+			],
+			[
+				"addt",
+				"addtimetiplisteners"
+			],
+			[
+				"getAni",
+				"getAnimLayers"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"layer",
+				"layeroptions"
+			],
+			[
+				"an",
+				"animator"
+			],
+			[
+				"ani",
+				"animating"
+			],
+			[
+				"stop",
+				"stopConcurrentAnimations"
+			],
+			[
+				"remov",
+				"removeControls"
+			],
+			[
+				"crea",
+				"createTimeTipSelectOption"
+			],
+			[
+				"time",
+				"timetip"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"qu",
+				"queryall"
+			],
+			[
+				"legend",
+				"legendjson"
+			],
+			[
+				"tansp",
+				"transparency"
+			],
+			[
+				"ins",
+				"instanceof"
+			],
+			[
+				"lege",
+				"legendjson"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"name",
+				"nameparts"
+			],
+			[
+				"uni",
+				"uniqueValueInfos"
+			],
+			[
+				"strok",
+				"strokeWeight"
+			],
+			[
+				"leg",
+				"legendjson"
+			],
+			[
+				"style",
+				"styleLayer"
+			],
+			[
+				"item",
+				"itemclass"
+			],
+			[
+				"im",
+				"imageData"
+			],
+			[
+				"overr",
+				"overridehidden"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"over",
+				"overridehidden"
+			],
+			[
+				"ov",
+				"overrideshowing"
+			],
+			[
+				"overlay",
+				"overlayMaps"
+			],
+			[
+				"query",
+				"queryall"
+			],
+			[
+				"up",
+				"updated"
+			],
+			[
+				"not",
+				"notanimatable"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"line",
+				"lineClassHeight"
+			],
+			[
+				"canal",
+				"canalColor"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"o",
+				"outeropts"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"padd",
+				"padBoundsTolerance"
+			],
+			[
+				"boun",
+				"padBoundsTolerance"
+			],
+			[
+				"las",
+				"lastPaddedBounds"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"r",
+				"rgba"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"geom",
+				"geomType"
+			],
+			[
+				"mou",
+				"mousemove"
+			],
+			[
+				"too",
+				"tooltipFunction"
+			],
+			[
+				"addL",
+				"addLegendItemClick"
+			],
+			[
+				"fol",
+				"fillColor"
+			],
+			[
+				"fill",
+				"fillColor"
+			],
+			[
+				"url",
+				"urlbase"
+			],
+			[
+				"type",
+				"typecolors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 454,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"stylus",
+				"Set Syntax: Stylus"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pr",
+				"HTMLPrettify"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"s",
+				"Set Syntax: SQL"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+			"-2656.5 - 824 + 607.5",
+			"-2656.5 - 824 + 607.5/2",
+			"-2656.5 - 824 ",
+			"-2656.5 + 824 ",
+			"(277.5-263.5)/2",
+			"277.5-263.5/2",
+			"277.5-263.5",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/fgdb-to-geojson"
+	],
+	"file_history":
+	[
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/show-attributes.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/layer-configs.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/css-animations.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/plugins.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/map.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/topbar.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_bootstrap_sass._official.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/layer-configs.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/main.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/cascade-map/app/archive/404.html",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app _backup_pre-refactor/404.html",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/index.html",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/json/explorations.json",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/last-minute-extensions.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/basemap-changer.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/marker-icons.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/responsive.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/app/404.html",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/layer-configs.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/leaflet-GeoJSONLayer.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/leaflet-extensions.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/legend.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/Gruntfile.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/index.html",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/loading.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_colors.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_offline.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_extend-elements.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/form-validation.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_urls.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/show-attributes.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/leaflet-edit.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/basmaps.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/plugins.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/last-minute-extensions.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/map.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/leaflet-GeoJSONLayer.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/scripts/leaflet-extensions.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/c77d0d61.vendor.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/e86d9703.plugins.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/40deb580.main.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/temp/leaflet-polyline-decorator",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/temp/leaflet-measure.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/temp/lvector.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/refactor/temp/geojson.ajax.js",
+		"/C/Users/ben_kane/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/node_modules/grunt-contrib-htmlmin/node_modules/.bin/pretty-bytes",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/node_modules/gaze/build/Release/obj/pathwatcher/CL.read.3.tlog",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/package.json",
+		"/C/Users/ben_kane/AppData/Local/Temp/fz3temp-1/40deb580.main.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/dist/styles/673e5c73.main.css",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/iisnode/private/dwr-lep/scripts/40deb580.main.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/dist/scripts/40deb580.main.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_extend-elements.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_colors.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_urls.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/topbar.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/legend.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/main.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/loading.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_labels.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/leaflet-edit.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_offline.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/form-validation.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/print-styles.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/show-attributes.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/responsive.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/drop-shadows.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/basemap-changer.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_leaflet-mods.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/css-animations.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/layer-configs.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/marker-icons.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/results-container.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/_base.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/refactor/_fonts.scss",
+		"/C/Users/ben_kane/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/C/Users/ben_kane/AppData/Roaming/Sublime Text 3/Local/Auto Save Session.sublime_session",
+		"/L/Projects/DWR_LEP_woodland_south/01_Data/Explorations/explorations.json",
+		"/C/Users/ben_kane/AppData/Local/Temp/fz3temp-1/import-json-to-mongodb.py",
+		"/L/Projects/DWR_LEP_woodland_south/01_Data/Explorations/Explorations.prj",
+		"/C/Projects/sailsjs-ticketing-app/sample_data/point.json",
+		"/C/Projects/sailsjs-ticketing-app/package.json",
+		"/C/Users/ben_kane/Downloads/map-marker-1.svg",
+		"/C/Projects/sailsjs-ticketing-app/views/layout.jade",
+		"/C/Projects/sailsjs-ticketing-app/views/ticket/adminlist.jade",
+		"/C/Projects/sailsjs-ticketing-app/views/ticket/list.jade",
+		"/C/Projects/sailsjs-ticketing-app/views/ticket/dashboard.jade",
+		"/C/Projects/sailsjs-ticketing-app/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/C/Projects/sailsjs-ticketing-app/assets/js/map-routing.js",
+		"/C/Projects/SailsJS-Ticketing/package.json",
+		"/C/Projects/SailsJS-Ticketing/npm-debug.log",
+		"/C/Users/ben_kane/Downloads/togeojson.js",
+		"/C/Users/ben_kane/.ssh/config",
+		"/C/Users/ben_kane/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/R0WG0QES/Confirmation.txt",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/caltrain-google-2/bower_components/gmaps-tools/extendGoogle/extendGoogle.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/caltrain-google-2/app/scripts/plugins.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/caltrain-google-2/bower_components/gmaps-tools/google-hash/google-hash.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/caltrain-google-2/app/scripts/map-ags.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/dist/scripts/6623bede.main.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/package.json",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/Gruntfile.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/dist/styles/af982a9e.main.css",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/app/scripts/layer-configs.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/legend-swatches.scss",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/app/styles/main.css",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/app/scripts/plugins.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/generate token AGS.txt",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/index.html",
+		"/C/Users/ben_kane/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/yolo-flood-maps/node_modules/grunt-contrib-imagemin/README.md",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/start forever.txt",
+		"/C/Users/ben_kane/AppData/Local/Temp/fz3temp-1/out.log",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/scripts/leaflet.polyline.decorator.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/map.css",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/styles/leaflet.measure.css",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/json/geomorph_polys.json",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/json/geomorph_lines.json",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/dwr-woodland-south/app/json/test.json",
+		"/C/Users/ben_kane/Downloads/mongodb-win32-x86_64-2008plus-2.6.8/mongodb-win32-x86_64-2008plus-2.6.8/bin/mongod.pdb",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/cascade-map/Gruntfile.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/cascade-map/app/scripts/map.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/gmaps-tools/dev snippets.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/iisnode/routes/index.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/iisnode/routes/user.js",
+		"/C/Users/ben_kane/Documents/Aptana Studio 3 Workspace/dms-marketing/cascade-map/app/scripts/layers-config.js",
+		"/C/Users/ben_kane/AppData/Local/Temp/fz3temp-1/get_data.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"*.",
+			"*.xml",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fs",
+			"menu",
+			"basemap_menu",
+			"menu_container",
+			"menu",
+			"makeLayerUrl",
+			"@import \"_base\";\n\n@import \"_colors\";\n@import \"_urls\";\n@import \"_extend-elements\";\n\n@import \"drop-shadows\";\n\n@import \"css-animations\";\n\n@import \"_labels\";\n\n@import \"loading\";\n@import \"topbar\";\n@import \"legend\";\n@import \"basemap-changer\";\n@import \"show-attributes\";\n\n@import \"results-container\";\n\n@import \"layer-configs\";\n@import \"marker-icons\";\n\n// @import \"legend-swatches\";\n\n@import \"form-validation\";\n\n@import \"_offline\";\n\n@import \"_leaflet-mods\";\n\n// media queries\n@import \"print-styles\";\n@import \"responsive\";\n\n\nbody, \nhtml {\n	font-family: \"Helvetica Neue\",Helvetica,Arial,sans-serif;\n  font-size: 14px;\n  line-height: 1.42857;\n  color: #333;\n  background-color: #fff;\n	@extend %full_width_and_height;\n}\n\n#bordercontainer {\n	width: 100%;\n	height: 100%;\n	margin: 0;\n}\n#controls {\n	top: 130px;\n	height: calc(100% - $headerheight);\n	width: 255px;\n	position: absolute;\n	z-index: 2;\n	display: block;\n	background-color: $white_85;\n	border-right: solid 1px;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 2px 0 2px;\n	padding: 0 0 0 2px;\n	margin: 0 auto;\n	.popupContent {\n		border-bottom: 2px solid $color_celeste_approx;\n		overflow-y: auto;\n	}\n}\n.controlSwitcher {\n	display: inline-block!important;\n	position: absolute;\n	bottom: 0;\n	left: 0;\n	margin: 0 auto;\n	padding: 0;\n	text-align: center;\n	list-style-type: none;\n	line-height: 30px;\n	height: 30px;\n	width: inherit;\n	li {\n		display: inline-block;\n		width: 30%;\n		border: 1px solid $color_pink_swan_approx;\n		cursor: pointer;\n		&:hover {\n			background-color: $color_celeste_approx;\n		}\n		&.active {\n			background-color: $color_celeste_approx;\n		}\n	}\n}\n.TOC {\n	display: inline-block;\n}\n.switcherHidden {\n	height: 0;\n}\n.popup-image-centered {\n	width: 100%;\n	display: inline-block;\n	text-align: center;\n}\n.expandArrow {\n	display: none;\n	position: absolute;\n	z-index: 999;\n	top: 47%;\n	background-color: $white_80;\n	padding: 35px 5px;\n	font-weight: 700;\n	border: 1px solid $color_suva_gray_approx;\n	text-align: center;\n	height: 20px;\n	line-height: 20px;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 0 5px 5px 0;\n	cursor: pointer;\n	&:hover {\n		background-color: $color_star_dust_80_approx;\n	}\n}\n#toggleControls {\n	color: $black;\n	background-color: $white;\n	position: absolute;\n	z-index: 999;\n	height: 20px;\n	margin: 62px 0 0 -9px;\n	padding: 0 4px;\n	width: 34px;\n	left: 229px;\n	font-size: 14px;\n	cursor: pointer;\n	&:hover {\n		color: $white;\n		background-color: $color_silver_chalice_approx;\n	}\n}\n.left {\n	left: 0!important;\n}\n.TOCcontainer {\n	height: calc(100% - $controlSwitcherHeight);\n	overflow-y: hidden;\n}\n#TOC {\n	//Instead of the line below you could use @includeuser-select($select)\n	user-select: none;\n	list-style-type: none;\n	padding: 10px;\n	position: relative;\n	width: inherit;\n	overflow-y: auto;\n	height: 100%;\n	margin: 0 auto;\n}\n.tocItem {\n	margin: 0 0 15px;\n}\n.group {\n	font-weight: 700;\n}\n.groupName {\n	cursor: pointer;\n}\n.off {\n	display: none;\n	background-color: $color_tonys_pink_approx;\n	font-size: 10px;\n	padding: 5px 10px;\n	width: 50px;\n	margin-left: 10px;\n}\n.groupContainer {\n	display: none;\n	list-style-type: none;\n	margin: 0 auto;\n	padding: 5px 0 0 20px;\n}\n.groupLI>checkbox {\n	padding: 0 5px;\n}\n.groupLI>label {\n	padding: 0 5px;\n}\n\n.noToggle {\n	@extend %extend_7;\n	.resultsLayerName {\n		@extend %extend_7;\n		&:hover {\n			@extend %extend_7;\n		}\n	}\n	&:hover {\n		@extend %extend_7;\n	}\n}\n\n#map {\n	padding: 0;\n	border: 1px solid $black;\n	height: 100%!important;\n	width: 100%!important;\n	position: absolute!important;\n	path {\n		stroke-linecap: butt!important;\n		stroke-linejoin: miter!important;\n	}\n}\n.layerName {\n	cursor: pointer;\n	&:hover {\n		background-color: $color_cobalt_20_approx;\n		padding: 2px;\n	}\n}\n.resultsLayerName {\n	cursor: pointer;\n	&:hover {\n		background-color: $color_cobalt_20_approx;\n		padding: 2px;\n	}\n}\n.searchResultsLayerName {\n	cursor: pointer;\n	&:hover {\n		background-color: $color_cobalt_20_approx;\n		padding: 2px;\n	}\n}\n\n.nofeatures {\n	height: 100px!important;\n}\n.infoCloser {\n	font-weight: 700;\n	float: right;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 0 10px;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 15px;\n	text-align: center;\n	text-decoration: none;\n	top: 0;\n	right: 0;\n	padding: 0;\n	cursor: pointer;\n	//Instead of the line below you could use @includetransition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)\n	transition: color .3s linear;\n	background-color: $color_dove_gray_approx;\n	color: $white;\n	font-size: 18px;\n	height: 22px;\n	width: 22px;\n	line-height: normal;\n	&:active {\n		background-color: $color_quill_gray_approx;\n		color: $black;\n	}\n	&:hover {\n		background-color: $color_quill_gray_approx;\n		color: $black;\n	}\n}\n.search {\n	color: $black_50;\n	font-weight: 700;\n	font-size: 1.2em;\n	height: 30px;\n	position: relative;\n	top: 0;\n	width: 220px;\n	padding-left: 30px;\n	border: 1px solid $color_suva_gray_approx;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 2px;\n	background: $white $url_magnifying_glass no-repeat 4px 6px;\n}\n#searches {\n	position: fixed;\n	top: 0;\n	right: 0;\n	margin: 5px;\n	text-align: center;\n	font-weight: 700;\n}\n.searchesUL {\n	list-style-type: none;\n	margin: 0;\n	padding: 0;\n}\n.searchesUL>li {\n	float: left;\n	margin: 0 5px;\n	padding: 1px 5px 0;\n	background-color: $color_dust_storm_approx;\n	&:active {\n		background-color: $color_gallery_approx;\n	}\n	&:hover {\n		background-color: $color_gallery_approx;\n	}\n}\n.searchesUL>li>a {\n	color: $black;\n	text-decoration: none;\n}\n.clearSelection {\n	margin-right: 65px!important;\n	visibility: hidden;\n}\n#mapStuff {\n	height: inherit;\n	position: fixed;\n	width: inherit;\n	right: 0;\n	z-index: 1;\n	left: 0;\n	padding: 0 auto;\n}\n#map_root {\n	width: 100%!important;\n	height: 100%!important;\n}\n.fullwidth {\n	width: 100% important;\n}\n\n.autoattribution {\n	float: right;\n	z-index: 210;\n	pointer-events: auto!important;\n	padding: 0 9px;\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 0 5px $color_pink_swan_approx;\n	background-color: $white_70;\n	color: $black;\n	cursor: pointer;\n}\n.autoattribution>p {\n	margin: 5px;\n}\n.hidetoggle {\n	background-color: $color_tuatara_70_approx!important;\n	color: $white!important;\n}\n#hover {\n	z-index: 200;\n	display: none;\n	position: absolute;\n	border: solid $black 1px;\n	padding: 5px;\n	background-color: $white_90;\n	width: 150px;\n	max-height: 400px;\n}\n#identifyResults {\n	z-index: 200;\n	display: none;\n	position: absolute;\n	border: solid $black 1px;\n	padding: 5px;\n	background-color: $white_90;\n	max-height: 400px;\n	overflow: auto;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 10px;\n}\n.IDRTitle {\n	margin: 5px auto;\n}\n.idResult {\n	margin: 5px auto;\n	cursor: pointer;\n	&:hover {\n		background-color: $color_blue_50_approx;\n	}\n}\n.smallClicked {\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: $black 2px 2px 6px;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 10px;\n	background-color: $color_tundora_approx;\n}\n.facilityInfo {\n	z-index: 10000;\n	position: absolute!important;\n	left: 0;\n	top: 50px;\n	margin: 10px;\n	overflow: auto;\n	padding: 5px!important;\n	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n	border-radius: 5px;\n	background: $color_tower_gray_90_approx;\n	max-width: 375px!important;\n	display: none;\n	max-height: 400px!important;\n}\n.infoTitle {\n	padding: 0 10px;\n	margin: 0 9px 10px;\n	text-align: center;\n	font-size: 14px;\n}\n.zoomTo {\n	&:active {\n		background-color: $color_quill_gray_approx;\n		color: $black;\n	}\n	&:hover {\n		background-color: $color_quill_gray_approx;\n		color: $black;\n	}\n}\n\n// .fancybox {\n// 	text-decoration: none!important;\n// 	font-family: $font_7, $font_8, $font_6;\n// 	font-weight: 700;\n// 	text-transform: uppercase;\n// 	color: $black;\n// 	//Instead of the line below you could use @includetransition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)\n// 	transition: color .3s linear;\n// 	background-color: $white_60;\n// 	position: fixed;\n// 	text-align: center;\n// 	padding: 1px 5px;\n// 	right: 10px;\n// 	top: 20px;\n// 	&:active {\n// 		@extend %extend_10;\n// 	}\n// 	&:hover {\n// 		@extend %extend_10;\n// 	}\n// }\n\n#yearchanger {\n	font-family: $font_7, $font_8, $font_6;\n	color: $white;\n	font-size: 1em;\n	font-weight: 700;\n	z-index: 210;\n	margin: -40px 0 0 200px;\n	text-align: center;\n	width: 160px;\n	position: relative;\n	top: 25px;\n	height: 30px;\n	padding-left: 20px;\n	display: inline-block!important;\n}\n\n.full-extent {\n	font-size: 16px;\n	font-weight: 700;\n	line-height: 24px;\n	background: $url_wireglobe no-repeat;\n}\n.googlemap {\n	font-size: 16px;\n	font-weight: 700;\n	line-height: 19px;\n	background: $url_google_maps no-repeat;\n}\n.zoomToLocation {\n	letter-spacing: -2px;\n	line-height: 26px!important;\n	font-size: 25px;\n	filter: \"progid: DXImageTransform.Microsoft.BasicImage(rotation=1)\";\n}\n.syncStorage {\n	position: absolute;\n	background-color: $white;\n	z-index: 999;\n	width: auto;\n	margin: 0 auto;\n	padding: 5px;\n	font-weight: 700;\n	color: $black;\n	text-align: center;\n	text-decoration: none;\n	left: 25%;\n	right: 25%;\n	top: 60px;\n	max-width: 250px;\n}\n.toggle {\n	margin: 10px 0 10px 2px!important;\n}\n.hint {\n	@extend %extend_11;\n}\n.toggleTOC {\n	font-size: 28px;\n	font-weight: 700;\n	line-height: 28px!important;\n	font-family: $font_3;\n	&.hint {\n		@extend %extend_11;\n	}\n}\n.noselect {\n	//Instead of the line below you could use @includeuser-select($select)\n	user-select: none;\n}\n.ontop {\n	z-index: 150;\n	position: fixed;\n}\n.colorshift {\n	opacity: .7;\n	filter: alpha(opacity=70);\n	font-size: 1.4em;\n	font-weight: 700;\n	color: $black;\n	&:hover {\n		@extend %extend_12;\n	}\n}\n.colorshifthover {\n	@extend %extend_12;\n}\n.trans {\n	//Instead of the line below you could use @includetransition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)\n	transition: .3s;\n}\n.rotate90 {\n	//Instead of the line below you could use @includetransform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)\n	transform: rotate(-90deg);\n}\n.rotate270 {\n	//Instead of the line below you could use @includetransform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)\n	transform: rotate(-270deg);\n}\n\n\n\n#map-canvas {\n	height: 100%;\n}\n#map_canvas {\n	height: 100%;\n}\n#panel {\n	position: absolute;\n	top: 5px;\n	left: 50%;\n	margin-left: -180px;\n	z-index: 5;\n	background-color: $white;\n	padding: 5px;\n	border: 1px solid $color_mountain_mist_approx;\n}\n\n\n// .assessmentFormContainer {\n// 	display: none;\n// 	height: 80%;\n// 	max-width: 450px;\n// 	padding: 20px;\n// 	background-color: $white;\n// 	position: relative;\n// 	z-index: 999;\n// 	font-family: $font_8;\n// 	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n// 	border-radius: 15px;\n// 	margin: 40px 0;\n// }\n// .formTitle {\n// 	font-weight: 700;\n// 	font-size: 18px;\n// }\n// .assessmentForm {\n// 	position: relative;\n// 	height: inherit;\n// 	margin: 0 auto;\n// 	display: none;\n// 	overflow-y: auto;\n// 	overflow-x: hidden;\n// 	width: inherit;\n// 	padding: 0;\n// 	border-bottom: 2px solid $color_celeste_approx;\n// 	form>div {\n// 		border: 1px solid;\n// 		//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n// 		border-radius: 15px;\n// 		text-align: left;\n// 		padding: 0 5px 10px;\n// 		overflow: hidden;\n// 	}\n// 	ul {\n// 		padding: 0;\n// 	}\n// 	select {\n// 		margin: 5px;\n// 		//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n// 		border-radius: 5px;\n// 	}\n// 	input[type=number] {\n// 		@extend %extend_13;\n// 	}\n// 	input[type=text] {\n// 		@extend %extend_13;\n// 	}\n// 	textarea {\n// 		@extend %extend_13;\n// 	}\n// 	input[type=file] {\n// 		margin-bottom: 5px;\n// 	}\n// }\n// .detachable>p {\n// 	padding: 0 12px;\n// }\n// .formButtons {\n// 	padding: 10px 0!important;\n// 	bottom: 0;\n// 	text-align: center!important;\n// 	border: none!important;\n// 	a {\n// 		cursor: pointer;\n// 		//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n// 		box-shadow: 0 1px 3px 1px;\n// 		//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n// 		border-radius: 5px;\n// 		padding: 5px;\n// 		&:hover {\n// 			background-color: $color_alto_approx;\n// 		}\n// 	}\n// }\n// .inspectionAreas {\n// 	padding: 0;\n// 	clear: both;\n// }\n// .buildingConditions>ul {\n// 	&:first-child {\n// 		font-weight: 700;\n// 	}\n// 	&:nth-of-type(even) {\n// 		background-color: $color_alto_approx;\n// 	}\n// }\n// .buildingDamage {\n// 	h4 {\n// 		margin-bottom: 5px;\n// 	}\n// 	div {\n// 		font-weight: 400;\n// 	}\n// }\n// .postingLevel {\n// 	width: 100%;\n// 	margin-left: 0!important;\n// }\n\n// .evalDetailed {\n// 	display: none;\n// }\n\n.rotate45 {\n	filter: \"progid: DXImageTransform.Microsoft.BasicImage(rotation=1.5)\";\n}\ninput[type=number]::-webkit-inner-spin-button {\n	margin: 0;\n	height: auto;\n}\ninput[type=number]::-webkit-outer-spin-button {\n	margin: 0;\n	height: auto;\n}\n\n\n.button-on {\n	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n	box-shadow: 0 0 8px $color_cod_gray_approx!important;\n}\n.button-on>a {\n	background-color: $color_mountain_mist_approx!important;\n}\n.assessType>a {\n	line-height: 13px!important;\n}\n\n.transparent {\n	background-color: transparent!important;\n}\n\n\n.whitetext {\n	color: $white;\n}\n.blacktext {\n	color: $black;\n}\n\n// .leaflet-control-measure {\n// 	background: $url_20 no-repeat;\n// 	font-size: 28px;\n// 	font-weight: 700;\n// }\n\n// .leaflet-bar-part-top-and-bottom {\n// 	//Instead of the line below you could use @includeborder-radius($radius, $vertical-radius)\n// 	border-radius: 4px;\n// 	border-bottom: none;\n// }\n// .leaflet-control-measure-on {\n// 	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n// 	box-shadow: 0 0 8px $color_cod_gray_approx!important;\n// }\n// .leaflet-control-measure-on>a {\n// 	background-color: $color_mountain_mist_approx!important;\n// }\n// .leaflet-measure-tooltip {\n// 	font: 9px/1.25 \"Helvetica Neue\", Arial, Helvetica, sans-serif;\n// 	background-color: $white_70;\n// 	//Instead of the line below you could use @includebox-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)\n// 	box-shadow: 0 0 5px $color_pink_swan_approx;\n// 	margin: 0;\n// 	padding: 2px;\n// 	width: auto!important;\n// 	height: auto!important;\n// 	white-space: nowrap;\n// }\n// .leaflet-measure-tooltip-total {\n// 	font-weight: 700;\n// }\n// .leaflet-measure-tooltip-difference {\n// 	color: $color_tapa_approx;\n// }\n\n#controls>div:last-child {\n	display: block!important;\n}\n\ndiv.leaflet-bottom.leaflet-right {\n	z-index: 1000;\n}\n\n.detachable select {\n	width: 100%;\n}\n// #buildingsRapid ul {\n// 	list-style-type: none;\n// 	padding: 0 5px;\n// }\n// .buildingConditions li {\n// 	display: inline-block;\n// 	vertical-align: text-top;\n// 	&:first-child {\n// 		display: inline-block;\n// 		width: 100%;\n// 	}\n// 	input[type=radio] {\n// 		width: 20px;\n// 	}\n// }\nsvg:not(:root) {\n	overflow: hidden;\n}",
+			"makeLegend",
+			"e",
+			"makeLegend",
+			"addLegendIt",
+			"addLegendItem",
+			"addlegenditem",
+			"addLegendItem",
+			"makeLegend",
+			"makelegend",
+			"getIcon",
+			"makeLegend",
+			"getPropAlias",
+			"legendProp",
+			"ExpType",
+			"exptype",
+			"pasimplify",
+			"d",
+			"zoom",
+			"getUrlForSimplified",
+			"buildLegendGroup",
+			"d",
+			"check",
+			"createShowTypeListener",
+			"legendProp",
+			"b",
+			"jshint",
+			"progid",
+			"white_75",
+			"font",
+			"Basemaps",
+			"baseMaps",
+			"initlayers",
+			"toggletoc",
+			"labelFeature",
+			"arrangeOrder",
+			"gofullextent",
+			"bc",
+			"self",
+			"}, GeoJSONLayer",
+			"}\\nGeoJSONLayer",
+			"arrangeOrder",
+			"layerorder",
+			"data",
+			"decorate",
+			"decorateFeature",
+			"styleLines",
+			"waitToAdd",
+			"addLegendItem",
+			"GeoJSONLayer",
+			"addlayers",
+			"geojsonlayer",
+			"extend_1;",
+			"extend_1",
+			"url",
+			"$",
+			"url",
+			"url_4",
+			"url",
+			"ut[type=number]::-webkit-outer-spi",
+			"evalDetailed",
+			"rotate45",
+			"responsive",
+			"assessmentFormContainer",
+			"extend_6;",
+			"extend_6",
+			"let-div-ico",
+			"et-control-attri",
+			"let-control-attribu",
+			"flet-control-laye",
+			"leaflet-control",
+			"ontrol-attri",
+			"ntrol-attrib",
+			"control-attrib",
+			"leaflet",
+			"legend",
+			"marker-ico",
+			"marker-icon",
+			"legend",
+			"contents",
+			"dwr",
+			".disabled",
+			"makelegend",
+			"makeLegend",
+			"makelegend",
+			"lowercase",
+			"	;",
+			"lowercase",
+			"exptype",
+			"[{",
+			"addressBackToLocation",
+			"calcRoute",
+			"destinations ",
+			"destinations",
+			"args = ",
+			"handleDistanceMatrixResults",
+			"calcRoute",
+			"stopover",
+			"calcrou",
+			"getDistanceMatrix",
+			"DistanceMatrixService",
+			"distanceMatrixService",
+			"id=\"",
+			"id=",
+			"setPoints",
+			"setMarkers",
+			"getColorFromPriority",
+			"ticket_id",
+			"routing",
+			"routing'",
+			"ature:clic",
+			"bounceMarker",
+			"gMaps",
+			"ure:clic",
+			"GoogleMap",
+			"bounceMarker",
+			"/list",
+			"ticketBody",
+			"$poin",
+			"click",
+			"tn-dang",
+			"500"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\nGeoJSONLayer",
+			"}\\nGeoJSONLayer",
+			"title",
+			"top",
+			"GeoJsonLayer",
+			"span",
+			"getLayerLegend",
+			"// addFeatureTitle(feature, prop)",
+			"// this.addLegendItemClick(f, map);",
+			"",
+			"// this.addFeatureClickListeners(d, f);",
+			" ",
+			"new GeoJSONLayer( map, ",
+			"addLegendItem",
+			"mongoose",
+			"gdomlistener",
+			"",
+			" ",
+			"/",
+			"title",
+			";",
+			"",
+			" ",
+			"",
+			".info",
+			"",
+			"addLegendItemClick(f, map)",
+			"brighter",
+			"'click'",
+			"\"Segment\": \"169\"",
+			"\"Segment\": \"297\"",
+			"\"Segment\": \"150\"",
+			"L.geoJson.ajax(",
+			"obj.",
+			".getPosition()",
+			"self",
+			"possible",
+			"currentAnimations",
+			"controller.controls.play",
+			"critical_infrastructure",
+			"",
+			"'",
+			"<div align='left'><table border='0' cellpadding='0' cellspacing='0'><tr><td valign='top'>Building Name</td><td valign='top'>THEATRE</td></tr><tr><td valign='top'>Gross Area Calculated</td><td valign='top'>32,707 sf</td></tr><tr><td valign='top'>Gross Area Reported</td><td valign='top'>28,027 sf</td></tr><tr><td valign='top'>Rentable Reported</td><td valign='top'>0 sf</td></tr><tr><td valign='top'>Reported Usable</td><td valign='top'>0 sf</td></tr><tr><td valign='top'>Parking Total Indoor</td><td valign='top'>0 Cars</td></tr><tr><td valign='top'>Number of Floors</td><td valign='top'>3 Floors</td></tr><tr><td valign='top'>Occupancy Number Reported</td><td valign='top'>0 People</td></tr><tr><td valign='top'>Electricity Use</td><td valign='top'>618,166 kWh/Year</td></tr><tr><td valign='top'>Construction Status</td><td valign='top'>Existing</td></tr></table></div>\"",
+			"'",
+			"<div align=\"left\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tr><td valign='top'>Building Name</td><td valign='top'>THEATRE</td></tr><tr><td valign='top'>Gross Area Calculated</td><td valign='top'>32,707 sf</td></tr><tr><td valign='top'>Gross Area Reported</td><td valign='top'>28,027 sf</td></tr><tr><td valign='top'>Rentable Reported</td><td valign='top'>0 sf</td></tr><tr><td valign='top'>Reported Usable</td><td valign='top'>0 sf</td></tr><tr><td valign='top'>Parking Total Indoor</td><td valign='top'>0 Cars</td></tr><tr><td valign='top'>Number of Floors</td><td valign='top'>3 Floors</td></tr><tr><td valign='top'>Occupancy Number Reported</td><td valign='top'>0 People</td></tr><tr><td valign='top'>Electricity Use</td><td valign='top'>618,166 kWh/Year</td></tr><tr><td valign='top'>Construction Status</td><td valign='top'>Existing</td></tr></table></div>\"",
+			"'",
+			"",
+			"\"description\"",
+			"address",
+			", ",
+			",",
+			",\\",
+			",\\r",
+			",\\n",
+			"\"",
+			"tocItem",
+			"feature",
+			" if(feature.__proto__) feature.__proto__.isHidden",
+			"if(feature.__proto__) feature.__proto__.isHidden",
+			"'",
+			"\\nfunction",
+			"}---function",
+			"\\n}\\nfunction",
+			";\\n",
+			",\\nfunction",
+			"\\n",
+			"------",
+			"\\n",
+			"******",
+			"/",
+			"\"",
+			"/",
+			"",
+			", ",
+			"\\",
+			"",
+			"images/",
+			"scripts/",
+			"styles/",
+			"",
+			"logger(",
+			"h2>",
+			"PropertyId: ",
+			"ComplexId: ",
+			"",
+			"    ",
+			" or ",
+			"headers",
+			"",
+			"    ",
+			"self",
+			"layer",
+			"",
+			"getcwd(process)",
+			"process.env.USERNAME!=='Ben_Kane' ? process.cwd() : __dirname",
+			"hidden",
+			"54.241.159.188/cloudgis",
+			"dwg",
+			"vestingdeed",
+			"recordmap",
+			"Santa Clara County",
+			"APmap",
+			"WES_200_86A_B01A_S01",
+			"pdf_link",
+			"/*[map.getBounds().toBBoxString()]*/",
+			"definitionQuery",
+			"],\n [",
+			"",
+			"\n[",
+			"],\n",
+			", ",
+			"]",
+			",\n  [",
+			",\\",
+			",\\n[",
+			"}",
+			"[",
+			", ",
+			" ],[",
+			" [",
+			"\\n<Int>",
+			"\\r\\n<Int>",
+			"",
+			"    ",
+			"\\t"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fgdb-to-geojson.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
